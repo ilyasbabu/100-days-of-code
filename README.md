@@ -27,14 +27,6 @@
 10.  If you find a great, helpful resource that others would benefit from, either submit a Pull Request to add it to the repo, or just tweet at me (see info below)
 
 
-The themes covered are:
-- **Habit Change**. Learn how to successfully acquire good habits and how to quit bad ones.
-- **Book Recommendations & Takeaways**. Get awesome book recommendations and golden nuggets of wisdom extracted from these books so you can put them into action right away!
-- **Personal Finance**. Even tiny change you make about how you manage your money will bring mind-boggling results over time. Find out what these changes are!
-- **Starting a Business**. Whether you're a wanna-be indie maker or want to become the next Elon Musk, you will find some great resources here!
-- **Overcoming Creative Blocks**. Together we explore how to beat the Resistance and finish that project you've been day-dreaming about.
-- **Minimalism** Living with less has lots of benefits: reduced stress, less cleaning, better finances and a lot more!
-- **Other topics**. Psychology, learning to code, alternative lifestyles and more.
 
 Join the Do the Opposite Community!
 
