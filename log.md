@@ -5,7 +5,7 @@
 
 **Today's Progress**: learned dart inheritance,abstraction.
 
-<!-- **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality. -->
+**Thoughts:** and finally got the clear meaning for abstract keyword
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
