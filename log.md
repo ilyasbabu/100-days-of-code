@@ -18,3 +18,12 @@
 
 **Link to work:** [Dart Exception](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/exception_handle.dart)
 
+### Day 3: November 5, 2021 
+##### (3rd day with some lag)
+
+**Today's Progress**: created first basic app in flutter
+
+**Thoughts:** seems little tough learning flutter(first impression, seems to change )
+
+**Link to work:** [First Flutter App](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main.dartt)
+
