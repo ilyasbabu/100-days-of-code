@@ -27,3 +27,9 @@
 
 **Link to work:** [First Flutter App](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main.dartt)
 
+### Day 4: November 6, 2021 
+##### (understood the basics of flutter)
+
+**Today's Progress**: understood the basic of flutter,updated readme of github too(understood working of markdowns)
+
+**Thoughts:** Making progress!!!
