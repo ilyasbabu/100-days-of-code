@@ -33,3 +33,12 @@
 **Today's Progress**: understood the basic of flutter,updated readme of github too(understood working of markdowns)
 
 **Thoughts:** Making progress!!!
+
+### Day 5: November 7, 2021 
+##### (first open source contribution)
+
+**Today's Progress**: !! contributed for the first time in open source !!
+
+**Thoughts:** it all happend at yesterday , randomly made a pull request with a basic structure and it got accepted !!! and today in the morning created a simple navbar for it and got the concept of merge and branches. hooray!!!
+
+**Link to work:** [Defending Himalayas Website](https://github.com/Nishkarsh01/defending-himalayas-website)
