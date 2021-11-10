@@ -42,3 +42,13 @@
 **Thoughts:** it all happend at yesterday , randomly made a pull request with a basic structure and it got accepted !!! and today in the morning created a simple navbar for it and got the concept of merge and branches. hooray!!!
 
 **Link to work:** [Defending Himalayas Website](https://github.com/Nishkarsh01/defending-himalayas-website)
+
+### Day 6: November 10, 2021 
+##### (coded on defending himalayas project)
+
+**Today's Progress**: developed contact page for website and linked the pages
+
+**Thoughts:** got in trouble while using git (never forget to pull often), anyhow managed to make it and created the contact form.
+skipped two days because of exams, and its still not over(mathematics incoming in one day and u r still coding) 
+
+**Link to work:** [Defending Himalayas Project](https://github.com/ilyasbabu/defending-himalayas-website/tree/main)
