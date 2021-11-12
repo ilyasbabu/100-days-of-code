@@ -52,3 +52,12 @@
 skipped two days because of exams, and its still not over(mathematics incoming in one day and u r still coding) 
 
 **Link to work:** [Defending Himalayas Project](https://github.com/ilyasbabu/defending-himalayas-website/tree/main)
+
+### Day 7: November 12, 2021 
+##### (coded on defending himalayas project)
+
+**Today's Progress**: added hover to nav links and connected contact in about
+
+**Thoughts:** finally a short relief for exams and back on streak. learnt CSS selector, multiple class's to style diferente elements while coding for project himalayas.
+
+**Link to work:** [Defending Himalayas Project](https://github.com/ilyasbabu/defending-himalayas-website/tree/main)
