@@ -61,3 +61,11 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** finally a short relief for exams and back on streak. learnt CSS selector, multiple class's to style diferente elements while coding for project himalayas.
 
 **Link to work:** [Defending Himalayas Project](https://github.com/ilyasbabu/defending-himalayas-website/tree/main)
+
+### Day 8: November 13, 2021 
+##### (set up django)
+
+**Today's Progress**: set django and whole server things
+
+**Thoughts:** setting up xampp server is still cubersome (anyway google was there for me). and saw many misguided tutorials for django setup (realized that actually is so simple, lengthy tutorials makes it great and make u confuse ). ANyway made it all...
+
