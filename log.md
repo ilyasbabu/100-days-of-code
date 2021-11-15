@@ -78,3 +78,12 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 (really loved the concept)
 
 **Link to work:** [Tweet](https://twitter.com/ely_bbu/status/1460057819172851716)
+
+### Day 10: November 15, 2021 
+##### (flutter going on)
+
+**Today's Progress**: practicing with widget
+
+**Thoughts:** you can create a child (here we can insert another widget) inside a widget, in children we can create multiple widgets, scaffold class contains allthe necessary widgets for material app.
+
+**Link to work:** [dart file](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main2.dart)
