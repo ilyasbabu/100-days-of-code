@@ -87,3 +87,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** you can create a child (here we can insert another widget) inside a widget, in children we can create multiple widgets, scaffold class contains allthe necessary widgets for material app.
 
 **Link to work:** [dart file](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main2.dart)
+
+**Link to work:** [Tweet](https://twitter.com/ely_bbu/status/1460057819172851716)
+
+### Day 11: November 16, 2021 
+##### (flutter going on)
+
+**Today's Progress**: learnt text, stateful, stateless
+
+**Thoughts:** got the concept of states in flutter.  
+
+**Link to work:** [dart file](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main3.dart)
