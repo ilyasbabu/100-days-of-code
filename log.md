@@ -98,3 +98,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** got the concept of states in flutter.  
 
 **Link to work:** [dart file](https://github.com/ilyasbabu/100-days-of-code/blob/master/codes_written_durin_challenge/main3.dart)
+
+### Day 12: November 17, 2021 
+##### (flutter going on, also portfolio)
+
+**Today's Progress**: created stateful basic app
+
+**Thoughts:** seems simple, should create great portfolio slowly....
+
+**Link to work:** [flutter dart codes](https://github.com/ilyasbabu/100-days-of-code/tree/master/codes_written_durin_challenge/stateful)
+<br>
+[portfolio repo](https://github.com/ilyasbabu/portfolio)
