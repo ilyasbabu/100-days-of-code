@@ -109,3 +109,12 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Link to work:** [flutter dart codes](https://github.com/ilyasbabu/100-days-of-code/tree/master/codes_written_durin_challenge/stateful)
 <br>
 [portfolio repo](https://github.com/ilyasbabu/portfolio)
+
+### Day 13: November 17, 2021 
+##### (learnt about SSH, udemy git)
+
+**Today's Progress**: udemy git course and some SSH(secure shell) things
+
+**Thoughts:** made a boom on udemy's git course (from 22% to 42% (and thats how should make progress on online courses )).
+
+<!-- **Link to work:** []() -->

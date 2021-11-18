@@ -1,7 +1,7 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least 30 minutes every day for the next 100 days.*
+### *I will code for at least 1 Hour every day for the next 100 days.*
 
 #### Start Date
 November 3rd, 2021.
