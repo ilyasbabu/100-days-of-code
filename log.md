@@ -118,3 +118,11 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** made a boom on udemy's git course (from 22% to 42% (and thats how should make progress on online courses )).
 
 <!-- **Link to work:** []() -->
+### Day 14: November 22, 2021 
+##### (portfolio)
+
+**Today's Progress**: worked on portfolio updating navbar
+
+**Thoughts:** CSS is lit ((lol)), have to google for everything, even for minute things (this is we get exp), actually wasnt ready to code because of exams, but the boring microprocessors made me code.
+
+**Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio)
