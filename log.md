@@ -126,3 +126,12 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** CSS is lit ((lol)), have to google for everything, even for minute things (this is we get exp), actually wasnt ready to code because of exams, but the boring microprocessors made me code.
 
 **Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio)
+
+### Day 15: December 03, 2021 
+##### (portfolio)
+
+**Today's Progress**: disabled views for non desktops
+
+**Thoughts:** using media queries is great for different views for different screen sizes and window size too!
+
+**Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio)
