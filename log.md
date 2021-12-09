@@ -135,3 +135,12 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** using media queries is great for different views for different screen sizes and window size too!
 
 **Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio)
+
+### Day 16: December 08, 2021 
+##### (django)
+
+**Today's Progress**: learn django basics
+
+**Thoughts:** learnt creating django project, app and connect to project
+
+<!-- **Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio) -->
