@@ -144,3 +144,10 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** learnt creating django project, app and connect to project
 
 <!-- **Link to work:** [portfolio](https://github.com/ilyasbabu/portfolio) -->
+
+### Day 17: December 09, 2021 
+##### (django)
+
+**Today's Progress**: implent html in django
+
+**Thoughts:** learnt about jinja varialbles, making code blocks for html etc, spent a lot of time looking for disabling scripts in html and posted a qs on stackoverflow.
