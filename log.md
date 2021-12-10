@@ -151,3 +151,10 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Today's Progress**: implent html in django
 
 **Thoughts:** learnt about jinja varialbles, making code blocks for html etc, spent a lot of time looking for disabling scripts in html and posted a qs on stackoverflow.
+
+### Day 18: December 10, 2021 
+##### (django)
+
+**Today's Progress**: static in html
+
+**Thoughts:** while implementig static u should mention it in settings
