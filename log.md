@@ -158,3 +158,17 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Today's Progress**: static in html
 
 **Thoughts:** while implementig static u should mention it in settings
+
+### Day 19: December 13, 2021 
+##### (data structures)
+
+**Today's Progress**: append arrays,search in array
+
+**Thoughts:** dsa in c program is sh*t , especially while in turbo c++
+
+### Day 20: December 15, 2021 
+##### (data structures)
+
+**Today's Progress**: linked list implementation in c
+
+**Thoughts:** lot to keep in mind
