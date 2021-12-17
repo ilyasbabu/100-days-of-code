@@ -172,3 +172,10 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Today's Progress**: linked list implementation in c
 
 **Thoughts:** lot to keep in mind
+
+### Day 21: December 16, 2021 
+##### (data structures)
+
+**Today's Progress**: stack and queue implemntation
+
+**Thoughts:** implemented stack and queue using array and linked list.
