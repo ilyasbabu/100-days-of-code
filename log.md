@@ -179,3 +179,11 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Today's Progress**: stack and queue implemntation
 
 **Thoughts:** implemented stack and queue using array and linked list.
+
+### Day 22: December 19, 2021 
+##### (django)
+
+**Today's Progress**: learnt to make web page totally dynamic
+
+**Thoughts:** now understood the power of errors(it kills time efficiently)
+
