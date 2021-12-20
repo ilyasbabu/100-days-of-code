@@ -187,3 +187,11 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 **Thoughts:** now understood the power of errors(it kills time efficiently)
 
+### Day 23: December 20, 2021 
+##### (college project)
+
+**Today's Progress**: started question bank system project(final year project)
+
+**Thoughts:** learnt more about tailwindcss and implemented in project, created navbar
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
