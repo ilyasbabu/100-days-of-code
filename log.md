@@ -191,6 +191,7 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 ##### (college project)
 
 **Today's Progress**: started question bank system project(final year project)
+(day 1 of question bank project)
 
 **Thoughts:** learnt more about tailwindcss and implemented in project, created navbar
 
@@ -198,6 +199,7 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 ### Day 24: December 21, 2021 
 ##### (question bank project)
+(day 2 of question bank project)
 
 **Today's Progress**: made the navbar perfect as well as responsive
 
