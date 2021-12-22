@@ -195,3 +195,12 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** learnt more about tailwindcss and implemented in project, created navbar
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 24: December 21, 2021 
+##### (question bank project)
+
+**Today's Progress**: made the navbar perfect as well as responsive
+
+**Thoughts:** made navbar responsive, implemented using display:none and media queries
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
