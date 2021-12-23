@@ -206,3 +206,10 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** made navbar responsive, implemented using display:none and media queries
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 25: December 22, 2021 
+##### (django)
+
+**Today's Progress**: password validation and checking if user nmae exists
+
+**Thoughts:** learnt about password validation and checking if user name exists. btw no progress today on question bank project
