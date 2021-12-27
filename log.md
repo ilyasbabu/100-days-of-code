@@ -213,3 +213,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Today's Progress**: password validation and checking if user nmae exists
 
 **Thoughts:** learnt about password validation and checking if user name exists. btw no progress today on question bank project
+
+
+### Day 26: December 23, 2021 
+##### (question bank project)
+(day 3 of question bank project)
+
+**Today's Progress**: made dropdowns for search and sort
+
+**Thoughts:** created dropdowns and made it responsive.
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
