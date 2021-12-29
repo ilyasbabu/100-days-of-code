@@ -224,3 +224,13 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** created dropdowns and made it responsive.
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 27: December 29, 2021 
+##### (question bank project)
+(day 4 of question bank project)
+
+**Today's Progress**: great progress made in question bank project
+
+**Thoughts:** created login,signup,feedback,add question pages. greatest progress ever made in question bank project
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
