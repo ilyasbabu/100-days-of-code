@@ -234,3 +234,13 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** created login,signup,feedback,add question pages. greatest progress ever made in question bank project
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 28: January 02, 2022 
+##### (question bank project)
+(day 5 of question bank project)
+
+**Today's Progress**: created about page. front end 75% done
+
+**Thoughts:** created about page, made it responsive. front end 75% done. copyright text on footer set to dynamically update on year change.
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
