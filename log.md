@@ -244,3 +244,13 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** created about page, made it responsive. front end 75% done. copyright text on footer set to dynamically update on year change.
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 29: January 03, 2022 
+##### (question bank project)
+(day 6 of question bank project)
+
+**Today's Progress**: making things responsive
+
+**Thoughts:** made many things responsive,  made the footer responsive, made the about page responsive. learnt few on django 
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
