@@ -254,3 +254,13 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:** made many things responsive,  made the footer responsive, made the about page responsive. learnt few on django 
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 30: January 06, 2022 
+##### (question bank project)
+(day 7 of question bank project)
+
+**Today's Progress**: made changes in forms
+
+**Thoughts:**  made changes in index, addquestion, signup and more. 
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
