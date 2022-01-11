@@ -264,3 +264,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 **Thoughts:**  made changes in index, addquestion, signup and more. 
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 31: January 10, 2022 
+##### (question bank project)
+(day 8 of question bank project)
+
+**Today's Progress**: configured django, django-tailwind and templates
+
+**Thoughts:**  configuring django was simple but the one with tailwind-django was a bit tedious to catch up. And set up templates, understood the great meaning in using '/' sign as wether before or after
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
