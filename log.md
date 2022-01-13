@@ -275,3 +275,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
 
+### Day 32: January 13, 2022 
+##### (arts and sports project)
+(day 1 of arts&sports project)
+
+**Today's Progress**: started arts and sports management project
+
+**Thoughts:**  created two pages and planned for next ones
+
+**Link to work:** [arts and sports management system](https://github.com/ilyasbabu/arts-and-sports-management-django)
+
+
