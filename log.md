@@ -285,4 +285,13 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 **Link to work:** [arts and sports management system](https://github.com/ilyasbabu/arts-and-sports-management-django)
 
+### Day 33: January 15, 2022 
+##### (arts and sports project)
+(day 2 of arts&sports project)
+
+**Today's Progress**: frontend 55% completed for this project
+
+**Thoughts:**  Created preloader, gallery, score table, and added images(compressed them too) for all tile
+
+**Link to work:** [arts and sports management system](https://github.com/ilyasbabu/arts-and-sports-management-django)
 
