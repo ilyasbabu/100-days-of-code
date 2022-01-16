@@ -295,3 +295,11 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 **Link to work:** [arts and sports management system](https://github.com/ilyasbabu/arts-and-sports-management-django)
 
+### Day 34: January 16, 2022 
+##### (learned a lot on django, created a single page todo app)
+
+**Today's Progress**: learn more complex topics on django and made a simple single page todo web app
+
+**Thoughts:**  Django is more understanding nowadays, now hands should be on hosting this simple app and database part (rdbms)
+
+
