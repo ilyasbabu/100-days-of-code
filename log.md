@@ -302,4 +302,14 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 
 **Thoughts:**  Django is more understanding nowadays, now hands should be on hosting this simple app and database part (rdbms)
 
+### Day 35: January 17, 2022 
+##### (to do app)
+(day 2 of arts&sports project)
+
+**Today's Progress**: completed todo app and deployed
+
+**Thoughts:**  Docs are really great nowadays it gives minute details (and thaks to stack overflow for making the deployment a success), really spent hours on deployment on heroku. But finally made it.
+Also learned the generic class based view in django and implemened in this app
+
+**Link to work:** [to do app](https://simple-todo-django-app.herokuapp.com/)
 
