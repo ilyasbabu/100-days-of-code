@@ -312,4 +312,22 @@ skipped two days because of exams, and its still not over(mathematics incoming i
 Also learned the generic class based view in django and implemened in this app
 
 **Link to work:** [to do app](https://simple-todo-django-app.herokuapp.com/)
+### Day 36: February 03, 2022 
+##### (question bank project)
+(day 9 of question bank project)
 
+**Today's Progress**: back to projects after exams
+
+**Thoughts:**  minor corrections in project
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 37: February 04, 2022 
+##### (question bank project)
+(day 10 of question bank project)
+
+**Today's Progress**: small progress with refining ui
+
+**Thoughts:**  added auto suggestion for university usng datalist, postgress DB connected, sort remade & toggle for q&a made by detail tag
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
