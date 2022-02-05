@@ -331,3 +331,11 @@ Also learned the generic class based view in django and implemened in this app
 **Thoughts:**  added auto suggestion for university usng datalist, postgress DB connected, sort remade & toggle for q&a made by detail tag
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 38: February 05, 2022 
+##### (simple ecommerce project)
+
+**Today's Progress**: started ecom project and did some initial works
+
+**Thoughts:**  consistency is key!
+
