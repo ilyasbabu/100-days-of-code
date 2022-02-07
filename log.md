@@ -339,3 +339,17 @@ Also learned the generic class based view in django and implemened in this app
 
 **Thoughts:**  consistency is key!
 
+### Day 39: February 06, 2022 
+##### (simple ecommerce project)
+
+**Today's Progress**: learnt more about models and foriegn key
+
+**Thoughts:**  no need to know sql for learning django, its so simole to deal with forign key in django, also made some collaborationson questiion bank project
+
+### Day 40: February 07, 2022 
+##### (simple ecommerce project)
+
+**Today's Progress**: learnt about slug, complex url things etc
+
+**Thoughts:**  there's lot more to learn in django, but its fun anyways and thrilling too! it gets more and more complex now , but still enjoying it
+
