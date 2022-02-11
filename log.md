@@ -353,3 +353,16 @@ Also learned the generic class based view in django and implemened in this app
 
 **Thoughts:**  there's lot more to learn in django, but its fun anyways and thrilling too! it gets more and more complex now , but still enjoying it
 
+### Day 41: February 10, 2022 
+##### (simple ecommerce project)
+
+**Today's Progress**: learnt to make complex urls
+
+**Thoughts:**  little difficult to get the concept but made it !!!
+
+### Day 42: February 11, 2022 
+##### (simple ecommerce project)
+
+**Today's Progress**: implemented search
+
+**Thoughts:**  implementing search was a lot more easier than my thoughts! next step isto implement search in question bank project
