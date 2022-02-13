@@ -366,3 +366,13 @@ Also learned the generic class based view in django and implemened in this app
 **Today's Progress**: implemented search
 
 **Thoughts:**  implementing search was a lot more easier than my thoughts! next step isto implement search in question bank project
+
+### Day 43: February 13, 2022 
+##### (question bank project)
+(day count lost)
+
+**Today's Progress**: worked on db and form 
+
+**Thoughts:**  spent more than 6 hrs on project, created database and models, made use of foriegn keys, implemented populating form feilds using AJAX and more
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
