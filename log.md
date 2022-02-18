@@ -376,3 +376,24 @@ Also learned the generic class based view in django and implemened in this app
 **Thoughts:**  spent more than 6 hrs on project, created database and models, made use of foriegn keys, implemented populating form feilds using AJAX and more
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 44: February 14,15,16 2022 
+##### (question bank project)
+(Consists more than a day)
+
+**Today's Progress**: done a lot on forms
+
+**Thoughts:**  fixed bugs on forms, implemented validation, added more feilds etc.
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 45: February 18, 2022 
+##### (question bank project)
+(day count lost)
+
+**Today's Progress**: completed form and started hompage
+
+**Thoughts:**  resarched more on forms in django and finally completed the forms, started working on home page, basic data fetches done etc, next thing to do is search
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
