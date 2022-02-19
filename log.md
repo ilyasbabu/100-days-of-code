@@ -397,3 +397,12 @@ Also learned the generic class based view in django and implemened in this app
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
 
+### Day 46: February 19, 2022 
+##### (question bank project)
+
+**Today's Progress**: implemented search, created detail page
+
+**Thoughts:**  created search based on questions, answers and subject, made the search incase sensitive, created detail page for question by passing id to the page and then fetching based on the id from database.
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
