@@ -406,3 +406,13 @@ Also learned the generic class based view in django and implemened in this app
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
 
+### Day 47: February 20, 2022 
+##### (question bank project)
+
+**Today's Progress**: a lot done on project
+
+**Thoughts:**  today first i made the feedback working, made for both feedback(general and feedback for question). id of question will be passed into message column for feedback on questions. Then i completed the categorisation on homepage . takes required values of each feild as id except semester by GET method and categorises  based on these values. Next done is sorting based on most recent(taking year), times asked, important.  
+Spent 4 hrs today on project
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
