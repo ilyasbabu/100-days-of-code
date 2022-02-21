@@ -416,3 +416,14 @@ Spent 4 hrs today on project
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
 
+### Day 48: February 20, 2022 
+##### (question bank project, arts & sports project)
+
+**Today's Progress**: Q.bank almost completed, django basics, tailwind, models in art&sports project
+
+**Thoughts:**  made signup,login,logout working on que bank project, during signup data(designation,phone,etc)will go to profile table in db, by this method manual verification will be possible
+And in arts &sports project django, tailwind for django, and templates configured, models created for House, sportsEvent,artsEvent, sportsDetail, artsDetail, sports participant , artsParticipant. [[A bug found on second index page, need to fix it tommorow]]
+(3 hrs spent on both project today)
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django) [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
+
