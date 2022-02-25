@@ -416,7 +416,7 @@ Spent 4 hrs today on project
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
 
-### Day 48: February 20, 2022 
+### Day 48: February 22, 2022 
 ##### (question bank project, arts & sports project)
 
 **Today's Progress**: Q.bank almost completed, django basics, tailwind, models in art&sports project
@@ -426,4 +426,25 @@ And in arts &sports project django, tailwind for django, and templates configure
 (3 hrs spent on both project today)
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django) [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
+
+### Day 49: February 24, 2022 
+##### (arts & sports project)
+
+**Today's Progress**: bug fixed, splitted into two apps, reg form
+
+**Thoughts:**  bug fixed firstly by hardcoding on each page, splitted into two apps named arts and sports for ease of development and for making assigning of admin easy tsk in future. Reg form almost completed
+(2 hrs spent project today)
+
+**Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
+
+### Day 50: February 22, 2022 
+##### (arts & sports project)
+
+**Today's Progress**: reg form completed, gallery completed, score table completed, detail page completed
+
+**Thoughts:**  Reg form completed- selecting one event is made required and other two optional, gallery completed with no much efforts, score table completed- housewise results made possible by aggregate in django and individual table by noramal method, details page completed- implemented by detail tag html,
+all these were developed and tessted on sports app and later just copied to arts app(not tested on arts app)
+(5 hrs spent on both project today)
+
+**Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
 
