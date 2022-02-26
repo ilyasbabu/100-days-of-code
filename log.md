@@ -437,7 +437,7 @@ And in arts &sports project django, tailwind for django, and templates configure
 
 **Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
 
-### Day 50: February 22, 2022 
+### Day 50: February 25, 2022 
 ##### (arts & sports project)
 
 **Today's Progress**: reg form completed, gallery completed, score table completed, detail page completed
@@ -447,4 +447,13 @@ all these were developed and tessted on sports app and later just copied to arts
 (5 hrs spent on both project today)
 
 **Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
+
+### Day 51: February 26, 2022 
+##### (arts & sports project)
+
+**Today's Progress**: meessed around with google APIs
+
+**Thoughts:**  for the e certificate section on project done a lot researches today since morning and succeeded!!!!
+need to implement it tommorow!!!
+
 
