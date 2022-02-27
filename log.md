@@ -456,4 +456,11 @@ all these were developed and tessted on sports app and later just copied to arts
 **Thoughts:**  for the e certificate section on project done a lot researches today since morning and succeeded!!!!
 need to implement it tommorow!!!
 
+### Day 52: February 26, 2022 
+##### (e certificate generator)
 
+**Today's Progress**: made working with rapid development
+
+**Thoughts:**  build, bugs fixed, hosted & more to be done to be completed
+
+**Link to work:** [e certificate generator](https://github.com/ilyasbabu/e-certificate-generator)
