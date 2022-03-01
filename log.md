@@ -472,3 +472,12 @@ need to implement it tommorow!!!
 **Thoughts:**   deployed succesfully to heroku, a lot more to do ...
 
 **Link to work:** [e certificate generator](https://github.com/ilyasbabu/e-certificate-generator)
+
+### Day 54: March 1, 2022 
+##### (e certificate generator)
+
+**Today's Progress**: two pages recreated
+
+**Thoughts:**  understood more about crispy forms
+
+**Link to work:** [e certificate generator](https://github.com/ilyasbabu/e-certificate-generator)
