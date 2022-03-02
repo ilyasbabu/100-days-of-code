@@ -481,3 +481,13 @@ need to implement it tommorow!!!
 **Thoughts:**  understood more about crispy forms
 
 **Link to work:** [e certificate generator](https://github.com/ilyasbabu/e-certificate-generator)
+
+### Day 55: March 2, 2022 
+##### (arts & sports project)
+
+**Today's Progress**: gallery update,details pg update ,Event winners table created
+
+**Thoughts:**  gallery on click goes to new tab and displays full size image.
+if no events are scheduled a message will be shown in details table. And fixed bugs in e certificate project
+
+**Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
