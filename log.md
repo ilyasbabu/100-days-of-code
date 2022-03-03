@@ -491,3 +491,12 @@ need to implement it tommorow!!!
 if no events are scheduled a message will be shown in details table. And fixed bugs in e certificate project
 
 **Link to work:** [arts & sports management](https://github.com/ilyasbabu/arts-sports-management-django)
+
+### Day 56: March 03, 2022 
+##### (question bank project)
+
+**Today's Progress**: Authentication made robust
+
+**Thoughts:**  User authentication using otp made, reset password with email done
+
+**Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
