@@ -500,3 +500,12 @@ if no events are scheduled a message will be shown in details table. And fixed b
 **Thoughts:**  User authentication using otp made, reset password with email done
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 57: March 06, 2022 
+##### (kripa website)
+
+**Today's Progress**: kripa website made dynamic
+
+**Thoughts:**  Gallery page made dynamic and hosted on heroku
+
+**Link to work:** [kripa website](https://kripa-website.herokuapp.com/)
