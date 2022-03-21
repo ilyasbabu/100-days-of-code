@@ -518,3 +518,12 @@ if no events are scheduled a message will be shown in details table. And fixed b
 **Thoughts:**  previously all fields were required for categorisation, but now selecting all feilds is not required anymore for categorisation, more things done today is modification in admin panel
 
 **Link to work:** [question bank system](https://github.com/ilyasbabu/questio-bank-django)
+
+### Day 59: March 21, 2022 
+##### (question bank project)
+
+**Today's Progress**: deployed
+
+**Thoughts:**  deployed on linux server using c panel
+
+**Link to work:** [question bank system](https://questionbank.kripaelectrolysis.com)
