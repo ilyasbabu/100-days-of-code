@@ -527,3 +527,18 @@ if no events are scheduled a message will be shown in details table. And fixed b
 **Thoughts:**  deployed on linux server using c panel
 
 **Link to work:** [question bank system](https://questionbank.kripaelectrolysis.com)
+
+
+### Day 60: April 15, 2022 
+##### (Started learning DSA)
+
+**Today's Progress**: Subscribed daily coding problem newsletter, also regd on hackerank
+
+**Thoughts:**  problem solving seems interesting
+
+### Day 61: April 17, 2022 
+##### (DSA)
+
+**Today's Progress**: 4 problems solved on hackerrank and solved daily coding newsleters code
+
+**Thoughts:**  todays daily coding newsletter problem was asked on ubers and it seems easy to me! maybe that some basic ones
