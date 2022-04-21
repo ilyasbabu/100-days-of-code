@@ -542,3 +542,13 @@ if no events are scheduled a message will be shown in details table. And fixed b
 **Today's Progress**: 4 problems solved on hackerrank and solved daily coding newsleters code
 
 **Thoughts:**  todays daily coding newsletter problem was asked on ubers and it seems easy to me! maybe that some basic ones
+
+### Day 62: April 21, 2022 
+##### (artsport project)
+
+**Today's Progress**: updated a lot
+
+**Thoughts:**  it feels really irritated when client needs some upgrade after we think that it is completed.
+
+**Link to work:** [arts sport](https://artsport.kripaelectrolysis.com)
+
