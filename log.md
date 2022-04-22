@@ -552,3 +552,12 @@ if no events are scheduled a message will be shown in details table. And fixed b
 
 **Link to work:** [arts sport](https://artsport.kripaelectrolysis.com)
 
+
+### Day 63: April 22, 2022 
+##### (artsport project, portfolio)
+
+**Today's Progress**: updated and deployed, started and almost finished portfolio website
+
+**Thoughts:**  Again comes new requirements from client🥶🥵. (to be done tommorow) got an inspiration for portfolio and made it happen today(deployement pending)
+
+**Link to work:** [arts sport](https://artsport.kripaelectrolysis.com)
