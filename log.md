@@ -561,3 +561,12 @@ if no events are scheduled a message will be shown in details table. And fixed b
 **Thoughts:**  Again comes new requirements from client🥶🥵. (to be done tommorow) got an inspiration for portfolio and made it happen today(deployement pending)
 
 **Link to work:** [arts sport](https://artsport.kripaelectrolysis.com)
+
+
+### Day 64: May 7, 2022 
+##### (real-estate project)
+
+**Today's Progress**: almost 75% done
+
+** Spent almost 5 hrs on project.
+
