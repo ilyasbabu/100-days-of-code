@@ -570,3 +570,11 @@ if no events are scheduled a message will be shown in details table. And fixed b
 
 ** Spent almost 5 hrs on project.
 
+
+### Day 65: May 9, 2022 
+##### (real-estate project)
+
+**Today's Progress**: coding part 95% done
+
+**Thoughts:** should focus on production side tommorow.
+
